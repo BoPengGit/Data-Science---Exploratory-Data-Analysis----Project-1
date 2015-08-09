@@ -1,4 +1,3 @@
-# Data-Science---Exploratory-Data-Analysis----Project-1
 
 hw1 = read.table("household_power_consumption.txt",
 	sep =";", 
